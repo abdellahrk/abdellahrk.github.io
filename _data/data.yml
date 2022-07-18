@@ -1,77 +1,64 @@
-name: John Doe
+name: Abdellah Ramadan
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: abdellah@aurora.cm
+  github: abdellahrk
+  linkedin: abdellahramadan
   phone: 
   gitlab: 
-  twitter: 
+  twitter: abdellah95
 
 languages:
   - idiom: English
-  - idiom: Russian
   - idiom: French
+  - idiom: Spanish
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BEng in Software Engineering
+    time: 2017-2021
+    university: Saint Monica University
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - PHP (Symfony)
+      - Ruby (Rails)
   - category: Frontend
     skill:
-      - React
+      - Vue 
+      - Hotwire
       - Typescript
   - category: DevOps
     skill:
       - Docker
-      - Kubernetes 
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Developer with passion and love. Contributor of <a href="https://boltcms.io">Bolt CMS</a>
 
 # Experience
 experience:
   - role: Software Engineer
-    time: 2020-Present
-    company: Google
+    time: 2021-2022
+    company: Placed
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Covered the role of a backend developer for the <a href="https://placed-app.com">Placed Mobile App</a> 
+      
     technologies_used: | 
-      Go, Angular, Typescript, C++
-  
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+      Symfony, Angular
+
+  - role: Software Engineer
+    time: 2018-2020
+    company: Makonjo Media
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Worked as a software engineer in one of the prestigious software development company - Makonjo Media.
+      Built internal projects and clients projects mainly with PHP and Vue.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Symfony, Laravel, Vue, Rails
 
 publications:
   - title: Random title of paper. An interesting one.
